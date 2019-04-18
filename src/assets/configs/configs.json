@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://api.vi.afaqy.sa/api/v1/",
+    "userImagesPath": "http://api.vi.afaqy.sa/uploads/users/",
+    "carImagesPath": "http://api.vi.afaqy.sa/uploads/cars/images/",
+    "checkinImagesPath": "http://api.vi.afaqy.sa/uploads/cars/checkin/branch-",
+    "checkoutImagesPath": "http://api.vi.afaqy.sa/uploads/cars/checkout/branch-"
+}
